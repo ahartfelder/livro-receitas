@@ -1,6 +1,6 @@
 # Strogonoff de Frango :chicken:
 
-_intalico_ Ingredientes:
+_Ingredientes_:
 
 - 1 Frango
 
